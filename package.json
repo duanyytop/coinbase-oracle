@@ -1,0 +1,17 @@
+{
+  "name": "coinbase-oracle",
+  "version": "1.0.0",
+  "description": "Coinbase oracle",
+  "main": "index.js",
+  "repository": "https://github.com/duanyytop/coinbase-oracle.git",
+  "author": "duanyytop <duanyytop@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^2.6.1",
+    "open-oracle-reporter": "^1.0.2"
+  }
+}
